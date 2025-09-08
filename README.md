@@ -62,15 +62,3 @@ Explora las estrategias, realiza la evaluación y prueba los controles de accesi
 
 ## 🌍 Objetivo
 Este proyecto busca ser un recurso educativo y práctico para estudiantes, docentes y profesionales interesados en la inclusión y accesibilidad en los entornos escolares.
-
----
-
-¿Quieres que lo deje más **formal y académico** (como para un proyecto universitario), o más **ligero y comercial** (para mostrar en tu portafolio)?
-
-
-
-
-
-
-
-Preguntar a ChatGPT
