@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aula-inclusiva.vercel.app/sitemap.xml
