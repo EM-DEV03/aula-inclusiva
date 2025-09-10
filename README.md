@@ -19,15 +19,13 @@ Una **guía interactiva y accesible** 📚 para crear espacios educativos inclus
 
 ---
 <br>
-
 <div align="center">
-
+   
 ## 📖 Descripción
 
 **Aula Inclusiva** surge de la necesidad de crear herramientas educativas que promuevan la **inclusión real** 🌍 en las instituciones educativas. A través de una interfaz completamente accesible ♿, ofrece:
 
 <br>
-
 </div>
 
 - **Estrategias fundamentales** 🧠 organizadas por tipos de barreras
@@ -35,12 +33,10 @@ Una **guía interactiva y accesible** 📚 para crear espacios educativos inclus
 - **Controles de accesibilidad** 🎛️ integrados
 - **Diseño universal** 🎨 siguiendo las pautas WCAG 2.1
 
-  <br>
-
+<br>
 <div align="center">
    
 ## ✨ Características Principales
-
 </div>
 
 ### 🔧 Accesibilidad Integral
@@ -60,6 +56,17 @@ Una **guía interactiva y accesible** 📚 para crear espacios educativos inclus
 - **Feedback educativo** 💬 detallado
 - **Progreso en tiempo real** ⏱️
 - **Resultados con recomendaciones** 📊
+- **🎉 Confeti dinámico**: Animación de celebración según tu puntaje (alto, medio, bajo o ninguno)
+  
+### 🎶 Experiencia Inmersiva
+- **Música de fondo automática** 🎵 con inicio suave (fade-in)
+- **Botón flotante** 🔘 para pausar/reanudar música
+- Reproducción en **loop infinito** ♾️ en PC y móviles
+
+### 🌊 Animaciones Visuales
+- **Fondo oceánico animado** 🌊 con degradados modernos
+- **Burbujas dinámicas** 🫧 que flotan de manera aleatoria
+- Animaciones suaves con **AOS** ✨
 
 ### 📱 Diseño Responsivo
 - Compatible con móviles 📱, tablets 📲 y escritorio 💻
@@ -91,27 +98,31 @@ cd aula-inclusiva
 ```
 
 ### Estructura del Proyecto
+
 ```
 aula-inclusiva/
 ├── 📄 index.html          # Página principal
 ├── 🎨 css/
-│   └── style.css       # Estilos personalizados
+│   └── style.css          # Estilos personalizados
 ├── ⚡ js/
-│   └── script.js       # Lógica de la aplicación
-├── 🖼️ img/               # Imágenes del quiz
-└── 📖 README.md          # Este archivo
+│   └── script.js          # Lógica de la aplicación
+├── 🖼️ img/                # Imágenes del quiz
+├── 🔊 audio/              # Música de fondo
+└── 📖 README.md           # Este archivo
 ```
 
+<br>
 <div align="center">
    
 ## 🎮 Uso de la Aplicación
-
 </div>
 
 ### Navegación Principal
 1. **Explorar Estrategias** 🔍: Haz clic en las tarjetas para expandir ejemplos detallados
 2. **Tomar Evaluación** 📝: Quiz interactivo con preguntas basadas en imágenes
 3. **Controles de Accesibilidad** ⚙️: Ubicados en la parte superior de la página
+4. **Música de Fondo** 🎶: Botón flotante para pausar/reanudar
+5. **Resultados con Confeti** 🎉: Animaciones según tu rendimiento
 
 ### Controles de Accesibilidad
 - **A+/A-** 📏: Ajustar tamaño de texto
@@ -121,15 +132,12 @@ aula-inclusiva/
 ### Sistema de Progreso
 - Barra de progreso de lectura en tiempo real 📈
 - Seguimiento del avance en el quiz 🏃‍♂️
-- Resultados con retroalimentación personalizada 🎖️
+- Resultados con retroalimentación personalizada 🎖️ y confeti dinámico
 
 <br>
-
 <div align="center">
    
 ## 🛠️ Tecnologías Utilizadas
-
-
 
 | Tecnología | Versión | Propósito |
 |------------|---------|-----------|
@@ -140,5 +148,6 @@ aula-inclusiva/
 | Font Awesome | 6.4.0 | Iconografía 🎯 |
 | Animate.css | 4.1.1 | Animaciones CSS ✨ |
 | AOS | 2.3.4 | Animaciones al scroll 🎬 |
+| Canvas Confetti | 1.6.0 | Efecto de confeti 🎉 |
 
 </div>
